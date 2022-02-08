@@ -11,3 +11,4 @@ This is a log that shows my answer to the activities for the Reliable Google Clo
 ![](Images/logimage5.jpg)
 ![](Images/logimage6.jpg)
 ![](Images/logimage7.jpg)
+![](Images/logimage8.jpg)
